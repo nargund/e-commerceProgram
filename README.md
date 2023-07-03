@@ -37,4 +37,8 @@ Contributions to this E-Commerce Program are welcome! As a newcomer to GitHub, f
 
 For any inquiries or further assistance, please feel free to contact me at nargundpavan07@gmail.com.
 
+## Note
+
+This README was generated using generative AI, and while efforts have been made to ensure accuracy, there may be some inaccuracies or inconsistencies. Please ignore any such inaccuracies and refer to the actual code and documentation for accurate information.
+
 Enjoy using the E-Commerce Program and have a great online shopping experience!
