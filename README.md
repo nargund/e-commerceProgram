@@ -39,6 +39,8 @@ For any inquiries or further assistance, please feel free to contact me at nargu
 
 ## Note
 
-This README was generated using generative AI, and while efforts have been made to ensure accuracy, there may be some inaccuracies or inconsistencies. Please ignore any such inaccuracies and refer to the actual code and documentation for accurate information.
+This E-Commerce Program was developed as part of an assignment. The purpose of the project was to create a user-friendly and customizable solution for online shopping. While efforts have been made to ensure accuracy, please note that the program may have limitations and may not be suitable for production-level e-commerce businesses. Please use this program for educational and demonstration purposes only.
+
+**Note: This README was generated using generative AI, and while efforts have been made to ensure accuracy, there may be some inaccuracies or inconsistencies. Please ignore any such inaccuracies and refer to the actual code and documentation for accurate information.**
 
 Enjoy using the E-Commerce Program and have a great online shopping experience!
