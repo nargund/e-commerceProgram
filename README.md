@@ -25,6 +25,10 @@ For more detailed instructions, please refer to the [user manual](user_manual.pd
 
 Throughout this assignment, project management techniques were applied. A Requirement Traceability Matrix (RTM) was created to map the project requirements and ensure their fulfillment. Additionally, user stories were created to define specific features and functionalities. You can find the attached files for the RTM and user stories in the repository.
 
+## Data Source
+
+The data used in the `data` folder is completely open source and obtained from [Data.world](https://data.world/jfreex/products-catalog-from-newchiccom). It provides a catalog of products from Newchic.com. Please note that the data is used for demonstration and testing purposes only.
+
 ## Contribution
 
 Contributions to this E-Commerce Program are welcome! As a newcomer to GitHub, feel free to explore the code, open issues, or submit pull requests. Your feedback and suggestions are greatly appreciated.
