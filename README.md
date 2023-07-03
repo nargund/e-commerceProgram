@@ -23,7 +23,7 @@ For more detailed instructions, please refer to the [user manual](user_manual.pd
 
 ## Project Management
 
-Throughout this assignment, project management techniques were applied. A Requirement Traceability Matrix (RTM) was created to map the project requirements and ensure their fulfillment. Additionally, user stories were created to define specific features and functionalities. You can find the attached files for the RTM and user stories in the repository [rtm and user stories](rtm_UserStories.xlsx).
+Throughout this assignment, project management techniques were applied. A Requirement Traceability Matrix (RTM) was created to map the project requirements and ensure their fulfillment. Additionally, user stories were created to define specific features and functionalities. You can find the attached files for the RTM and user stories in the repository [rtm and user stories excel file](rtm_UserStories.xlsx), [rtm.pdf](rtm.pdf), [user stories.pdf](userStories.pdf).
 
 ## Data Source
 
